@@ -1,0 +1,15 @@
+#include <stdio.h>
+/*
+Write a program to read three integers from a file.
+*/
+int main()
+{
+    FILE *fptr;
+    int num1, num2, num3;
+    fptr = fopen("neeraj.txt", "r");
+    fscanf(fptr, "%d %d %d", &num1, &num2, &num3);
+    printf(" The value of three integer are %d %d %d\n", num1, num2, num3);
+
+    fclose(fptr);
+    return 0;
+}
