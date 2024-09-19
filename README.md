@@ -3,7 +3,9 @@ This repository contains all the resources, code examples, and projects for the 
 
 **The-Ultimate-C-Programming-Course**
 
- This course provides a comprehensive guide to learning C programming, perfect for both beginners and advanced programmers. I personally learned and practiced C programming through the **The-Ultimate-C-Programming-Course** from the [Code with Harry YouTube channel](https://www.youtube.com/c/CodeWithHarry), and this repository reflects my journey, with resources and projects to help you master C as well!
+ This course provides a comprehensive guide to learning C programming, perfect for both beginners and advanced programmers.
+ I personally learned and practiced C programming through the **The-Ultimate-C-Programming-Course** from the [Code with Harry YouTube channel](https://www.youtube.com/c/CodeWithHarry), and this repository reflects my journey, with resources and projects to help you master C as well!
+Refer to this [video](https://www.youtube.com/watch?v=aZb0iu4uGwA) to watch  C course.
 
 ## 📖 Introduction
 
