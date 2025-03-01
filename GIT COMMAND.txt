@@ -1,0 +1,50 @@
+
+GIT COMMAND
+first right click and open with git bash then start following:git
+git init
+git add .
+git status
+git commit -m "Initial commit"
+git remote add origin <repository-URL>
+example:git remote add origin https://github.com/Neeraj-Kumar04/DOM-Project.git
+//optional--git pull origin main
+
+git
+
+ON ERROR OCCURED
+git fetch origin main:tmp
+git rebase tmp
+git push origin HEAD:main
+git branch -D tmp
+
+git push -u origin main
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+# 1. Git इनिशियलाइज़ करें
+git init
+
+# 2. रिमोट जोड़ें
+git remote add origin <repository-URL>
+
+# 3. फाइलें स्टेज करें
+git add .
+
+# 4. बदलाव कमिट करें
+git commit -m "Initial commit"
+
+# 5. रिमोट पर पुश करें
+git push -u origin main
+=========================================================================================================================================================================
+=========================================================================================================================================================================
+IF YOU HAVE README FILE ON GITHUB THEN USE THESE STEPS:
+
+first right click and open with git bash then start following:
+
+STEPS 1:- git init
+STEPS 2:- git remote add origin https://github.com/username/repository.git
+STEPS 3:- git pull origin main
+STEPS 4:- git add .
+STEPS 5:- git status
+STEPS 6:- git commit -m "Initial commit"
+STEPS 7:- git push origin main
