@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main() {
+
+int n=18;
+if (n<=10)
+
+printf("HELLO WORLD\n");//THIS STATEMNT INSIDE OF IF BLOCK
+printf("GOOD BYE\n");//INDEPENDENT STATEMENT-->ALWAYS RUN
+
+return 0;
+}
+//WE CAN USE CURLY BRACES TO DEFINE SCOPE BUT HERE IS ONLY ONE PRINTF STATEMENT
